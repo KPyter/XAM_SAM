@@ -1,0 +1,16 @@
+App3.ckrb, App3;md5db1d84f0b2adc09d2fa403805cf2e153.ckrb
+App3.ckrb, App3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db1d84f0b2adc09d2fa403805cf2e153.ckrb
+App3.ckrb;md5db1d84f0b2adc09d2fa403805cf2e153.ckrb
+app3.ckrb;md5db1d84f0b2adc09d2fa403805cf2e153.ckrb
+App3.MainActivity, App3;md5db1d84f0b2adc09d2fa403805cf2e153.MainActivity
+App3.MainActivity, App3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db1d84f0b2adc09d2fa403805cf2e153.MainActivity
+App3.MainActivity;md5db1d84f0b2adc09d2fa403805cf2e153.MainActivity
+app3.MainActivity;md5db1d84f0b2adc09d2fa403805cf2e153.MainActivity
+App3.spinner, App3;md5db1d84f0b2adc09d2fa403805cf2e153.spinner
+App3.spinner, App3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db1d84f0b2adc09d2fa403805cf2e153.spinner
+App3.spinner;md5db1d84f0b2adc09d2fa403805cf2e153.spinner
+app3.spinner;md5db1d84f0b2adc09d2fa403805cf2e153.spinner
+App3.TimeDateSample, App3;md5db1d84f0b2adc09d2fa403805cf2e153.TimeDateSample
+App3.TimeDateSample, App3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5db1d84f0b2adc09d2fa403805cf2e153.TimeDateSample
+App3.TimeDateSample;md5db1d84f0b2adc09d2fa403805cf2e153.TimeDateSample
+app3.TimeDateSample;md5db1d84f0b2adc09d2fa403805cf2e153.TimeDateSample
